@@ -1,4 +1,12 @@
-### Hi there 👋
+### Well, hello there... 👋
+
+---
+
+![python](https://img.shields.io/badge/python-%2390b0a0?logo=python&label=%3A&labelColor=%232f3331)&nbsp;
+![javascript](https://img.shields.io/badge/javascript-%2390b0a0?logo=javascript&label=%3A&labelColor=%232f3331)
+
+
+
 
 <!--
 **Aapok0/Aapok0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

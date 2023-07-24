@@ -1,5 +1,9 @@
 ## Well, hello there... 👋
 
+I'm Aapo! Not exactly sure what flavor of engineer to call myself, but I've studied electrical engineering, computer science and health technology and currently work with system administration and management of DevOps services.
+
+I've used linux every now and then, since I started my first university studies in 2012, but I didn't really get hooked until recently.
+
 ---
 
 ### Tech stack
@@ -37,11 +41,23 @@
 ![Static Badge](https://img.shields.io/badge/MariaDB-%23ebd4ae?logo=mariadb&label=%3A&labelColor=%232f3331)&nbsp;
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23ebd4ae?logo=postgresql&label=%3A&labelColor=%232f3331)
 
-
 ---
 
-### 🌱 Learning
+### 🌱 Learning and projects
 
+<table>
+  <tr>
+    <th>Currently working on</th>
+    <th>In my backlog</th>
+    <th>Ideas for future</th>
+  </tr>
+  <tr>
+    <td width="33%">
+    - [Fullstackopen course](https://github.com/Aapok0/fullstackopen)
+    </td>
+    <td width="33%"></td> 
+    <td width="33%"></td>  
+  </tr>
 
 
 <!--

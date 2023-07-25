@@ -1,17 +1,21 @@
-## Well, hello there... 👋
+# 🌊 Well, hello there... 🧊 Nice for you to come by
 
-I'm Aapo! Not exactly sure what flavor of engineer to call myself, but I've studied electrical engineering, computer science and health technology and currently work with system administration and management of DevOps services.
+Not exactly sure what flavor of engineer to call myself, but I've studied electrical engineering, computer science and health technology and currently work with system administration and management of DevOps services.
+
+- First languages I learned: Python and C
+- Current distro: Pop!_OS (and starting realize it doesn't matter)
+- Favorite command: grep/ripgrep (logs, reveal your secrets! 🕵️‍♂️)
+- Most want to learn: Kubernetes
+- In the zone coding music: fusion jazz (=GoGo Penguin, Snarky Puppy, Immortal Onion etc.)
+- Best hacking scene in a movie: Swordfish (he sure did a number on that square thingy...)
 
 I've used linux every now and then, since I started my first university studies in 2012, but I didn't really get hooked until recently. I'm starting to transition to using mostly vim, but still like doing certain tasks with VS Code. I'm trying to make my workflow a bit better with neovim, tmux, zoxide, fzf etc. tools, but also trying ease myself and not go whole hog with configuring everything at once.
 
-<!-- Something about what I'm developing/trying to develop and why -->
-<!-- Something about other hobbies -->
-
 ---
 
-### 🖥️ Tech stack
+## 🖥️ Tech stack
 
-**👨‍💻 Languages:**<br>
+### 👨‍💻 Languages:
 ![Python](https://img.shields.io/badge/Python-%23aeebc8?logo=python&label=%3A&labelColor=%232f3331)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-%23aeebc8?logo=javascript&label=%3A&labelColor=%232f3331)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-%23aeebc8?logo=html5&label=%3A&labelColor=%232f3331)&nbsp;
@@ -19,7 +23,7 @@ I've used linux every now and then, since I started my first university studies 
 ![React](https://img.shields.io/badge/React-%23aeebc8?logo=react&label=%3A&labelColor=%232f3331)&nbsp;
 ![Shell script](https://img.shields.io/badge/Shell%20script-%23aeebc8?logo=linux&label=%3A&labelColor=%232f3331)
 
-**🛠️Tools:**<br>
+### 🛠️Tools:
 ![Git](https://img.shields.io/badge/Git-%23aeb8eb?logo=git&label=%3A&labelColor=%232f3331)&nbsp;
 ![Neovim](https://img.shields.io/badge/Neovim-%23aeb8eb?logo=neovim&label=%3A&labelColor=%232f3331)&nbsp;
 ![tmux](https://img.shields.io/badge/tmux-%23aeb8eb?logo=tmux&label=%3A&labelColor=%232f3331)&nbsp;
@@ -27,20 +31,19 @@ I've used linux every now and then, since I started my first university studies 
 ![GH Actions](https://img.shields.io/badge/GH%20Actions-%23aeb8eb?logo=github&label=%3A&labelColor=%232f3331)&nbsp;
 ![Ansible](https://img.shields.io/badge/Ansible-%23aeb8eb?logo=ansible&label=%3A&labelColor=%232f3331)
 
-**⚙️ Services:**<br>
+### 🛎️ Services:
 ![Azure](https://img.shields.io/badge/Azure-%23ebd4ae?logo=microsoft%20azure&label=%3A&labelColor=%232f3331)&nbsp;
 ![GHES](https://img.shields.io/badge/GHES-%23ebd4ae?logo=github&label=%3A&labelColor=%232f3331)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%23ebd4ae?logo=bitbucket&label=%3A&labelColor=%232f3331)&nbsp;
 ![Artifactory](https://img.shields.io/badge/Artifactory-%23ebd4ae?logo=jfrog&label=%3A&labelColor=%232f3331)
 
-**🎖️ Certificates:**<br>
+### 🎖️ Certificates:
 ![AZ-104](https://img.shields.io/badge/AZ--104-%23ebaeae?logo=microsoft%20azure&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fcredentials%2Fshare%2Fen-us%2FAapoKokko-3945%2F48DD3F6B53D95961%3FsharingId%3D34159981622366F0)&nbsp;
 ![GH Actions](https://img.shields.io/badge/GH%20Actions-%23ebaeae?logo=github&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fcabb7c10-0082-44cd-b9af-a937bd556e65%2Fpublic_url)&nbsp;
 ![GH Administration](https://img.shields.io/badge/GH%20Administration-%23ebaeae?logo=github&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F265736dc-7dbc-47a7-b16a-ee58c2ec9300%2Fpublic_url)&nbsp;
 ![GH Advanced Security](https://img.shields.io/badge/GH%20Advanced%20Security-%23ebaeae?logo=github&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3efe6d1c-67e6-42c5-9507-daaa5b1bf230%2Fpublic_url)
 
-
-**Dabbled a little or learned years ago:**<br>
+### Dabbled a little or learned years ago:
 ![C](https://img.shields.io/badge/C-%23aeebc8?logo=C&label=%3A&labelColor=%232f3331)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23aeebc8?logo=php&label=%3A&labelColor=%232f3331)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-%23aeb8eb?logo=terraform&label=%3A&labelColor=%232f3331)&nbsp;
@@ -53,7 +56,15 @@ I've used linux every now and then, since I started my first university studies 
 
 ---
 
-### 🌱 Learning and projects
+<!--## 📊 Github Stats
+
+[![Aapo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AapoK0)](https://github.com/Aapok0)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AapoK0&layout=compact)](https://github.com/Aapok0)
+
+--- -->
+
+## 🌱 Learning and projects
 
 <table>
 <tr>
@@ -62,6 +73,7 @@ I've used linux every now and then, since I started my first university studies 
 <tr>
 <td width="33%" valign="top">
 
+- [tmux-zoxide script](https://github.com/Aapok0/tmux-tools)
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
 - Certification: AZ-305
@@ -84,24 +96,3 @@ I've used linux every now and then, since I started my first university studies 
 
 </td>
 </tr>
-
-<!-- ### 📊 Github Stats
-
-[![Aapo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AapoK0)](https://github.com/Aapok0)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AapoK0&layout=compact)](https://github.com/Aapok0) -->
-
-<!--
-**Aapok0/Aapok0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

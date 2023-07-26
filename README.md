@@ -3,11 +3,11 @@
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/aapokokko/">
-<img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/linkedin.png" alt="linkedin">
+<img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/linkedin-new.png" alt="linkedin">
 <a>
 &nbsp;
 <a href="https://www.instagram.com/apezo_/">
-<img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/instagram.png" alt="instagram">
+<img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/instagram-new.png" alt="instagram">
 <a>
 &nbsp;
 <a href="https://aapokokko.fi/">

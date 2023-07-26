@@ -74,6 +74,8 @@ I've used linux every now and then, since I started my first university studies 
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23ebd4ae?logo=mariadb&label=%3A&labelColor=%232f3331)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ebd4ae?logo=postgresql&label=%3A&labelColor=%232f3331)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cabb7c10-0082-44cd-b9af-a937bd556e65" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 <!--## 📊 Github Stats

@@ -1,5 +1,5 @@
 <div align="center">
-<img width="200" height="200" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/logo-new.png" alt="logo">
+<img width="200" height="200" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/logo-newer.png" alt="logo">
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/aapokokko/">

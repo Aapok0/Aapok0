@@ -13,6 +13,9 @@
 <a href="https://aapokokko.fi/">
 <img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/home.png" alt="home">
 <a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Aapok0&style=for-the-badge&color=lightgrey" alt="profile view counter"/>
+<!-- source: https://github.com/antonkomarev/github-profile-views-counter -->
 </div>
 
 # 🌊 Well, hello there... 🧊 Nice for you to come by

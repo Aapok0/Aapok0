@@ -57,7 +57,7 @@ I've used linux every now and then, since I started my first university studies 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%23ebd4ae?logo=bitbucket&label=%3A&labelColor=%232f3331)&nbsp;
 ![Artifactory](https://img.shields.io/badge/Artifactory-%23ebd4ae?logo=jfrog&label=%3A&labelColor=%232f3331)
 
-### Dabbled a little or learned years ago:
+### 🔨 Dabbled a little or learned years ago:
 ![C](https://img.shields.io/badge/C-%23aeebc8?logo=C&label=%3A&labelColor=%232f3331)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23aeebc8?logo=php&label=%3A&labelColor=%232f3331)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-%23aeb8eb?logo=terraform&label=%3A&labelColor=%232f3331)&nbsp;
@@ -72,13 +72,13 @@ I've used linux every now and then, since I started my first university studies 
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/48DD3F6B53D95961?sharingId=34159981622366F0">
 <img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ-104">
-<a>
+<a>&nbsp;
 <a href="https://www.credly.com/badges/cabb7c10-0082-44cd-b9af-a937bd556e65/public_url">
 <img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-actions.png" alt="Github Actions">
-<a>
+<a>&nbsp;
 <a href="https://www.credly.com/badges/265736dc-7dbc-47a7-b16a-ee58c2ec9300/public_url">
 <img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-administration.png" alt="Github Administration">
-<a>
+<a>&nbsp;
 <a href="https://www.credly.com/badges/3efe6d1c-67e6-42c5-9507-daaa5b1bf230/public_url">
 <img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-advanced-security.png" alt="Github Advanced Security">
 <a>

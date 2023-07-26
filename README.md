@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/logo.png)
+
 # 🌊 Well, hello there... 🧊 Nice for you to come by
 
 Not exactly sure what flavor of engineer to call myself, but I've studied electrical engineering, computer science and health technology and currently work with system administration and management of DevOps services.

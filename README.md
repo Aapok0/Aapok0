@@ -11,7 +11,7 @@
 <a>
 &nbsp;
 <a href="https://aapokokko.fi/">
-<img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/home.png" alt="home">
+<img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/home.png" alt="homepage">
 <a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Aapok0&style=for-the-badge&color=lightgrey" alt="profile view counter"/>
@@ -57,12 +57,6 @@ I've used linux every now and then, since I started my first university studies 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%23ebd4ae?logo=bitbucket&label=%3A&labelColor=%232f3331)&nbsp;
 ![Artifactory](https://img.shields.io/badge/Artifactory-%23ebd4ae?logo=jfrog&label=%3A&labelColor=%232f3331)
 
-### 🎖️ Certificates:
-![AZ-104](https://img.shields.io/badge/AZ--104-%23ebaeae?logo=microsoft%20azure&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fcredentials%2Fshare%2Fen-us%2FAapoKokko-3945%2F48DD3F6B53D95961%3FsharingId%3D34159981622366F0)&nbsp;
-![GH Actions](https://img.shields.io/badge/GH%20Actions-%23ebaeae?logo=github&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fcabb7c10-0082-44cd-b9af-a937bd556e65%2Fpublic_url)&nbsp;
-![GH Administration](https://img.shields.io/badge/GH%20Administration-%23ebaeae?logo=github&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F265736dc-7dbc-47a7-b16a-ee58c2ec9300%2Fpublic_url)&nbsp;
-![GH Advanced Security](https://img.shields.io/badge/GH%20Advanced%20Security-%23ebaeae?logo=github&label=%3A&labelColor=%232f3331&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3efe6d1c-67e6-42c5-9507-daaa5b1bf230%2Fpublic_url)
-
 ### Dabbled a little or learned years ago:
 ![C](https://img.shields.io/badge/C-%23aeebc8?logo=C&label=%3A&labelColor=%232f3331)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23aeebc8?logo=php&label=%3A&labelColor=%232f3331)&nbsp;
@@ -74,7 +68,20 @@ I've used linux every now and then, since I started my first university studies 
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23ebd4ae?logo=mariadb&label=%3A&labelColor=%232f3331)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ebd4ae?logo=postgresql&label=%3A&labelColor=%232f3331)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cabb7c10-0082-44cd-b9af-a937bd556e65" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### 🎖️ Certificates:
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/48DD3F6B53D95961?sharingId=34159981622366F0">
+<img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ-104">
+<a>
+<a href="https://www.credly.com/badges/cabb7c10-0082-44cd-b9af-a937bd556e65/public_url">
+<img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-actions.png" alt="Github Actions">
+<a>
+<a href="https://www.credly.com/badges/265736dc-7dbc-47a7-b16a-ee58c2ec9300/public_url">
+<img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-administration.png" alt="Github Administration">
+<a>
+<a href="https://www.credly.com/badges/3efe6d1c-67e6-42c5-9507-daaa5b1bf230/public_url">
+<img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-advanced-security.png" alt="Github Advanced Security">
+<a>
 
 ---
 

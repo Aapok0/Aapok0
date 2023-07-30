@@ -102,7 +102,10 @@ I've used linux every now and then, since I started my first university studies 
 <tr>
 <td width="33%" valign="top">
 
-- [tmux-zoxide script](https://github.com/Aapok0/tmux-tools)
+- Finish 2nd version of my [homepage](https://github.com/Aapok0/homepage-bulma)
+- CI/CD pipeline for homepages:
+  - [homepage](https://github.com/Aapok0/homepage/tree/main/.github/workflows)
+  - [homepage-bulma](https://github.com/Aapok0/homepage-bulma/tree/main/.github/workflows)
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
 - Certification: AZ-305
@@ -113,7 +116,8 @@ I've used linux every now and then, since I started my first university studies 
 - Udemy: Learn Ethical Hacking From Scratch
 - Udemy: Master the Coding Interview: Data Structures + Algorithms
 - Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain
-- Finish 2nd version of my [homepage](https://github.com/Aapok0/homepage)
+- Choosing preferred terminal emulator and setting it up
+- Choosing preferred window manager and setting it up (i3 maybe?)
 
 </td>
 <td width="33%" valign="top">
@@ -121,7 +125,7 @@ I've used linux every now and then, since I started my first university studies 
 - 3rd version of homepage with react
   - Make it look a terminal
   - Make it work like a command line
-- CI/CD pipeline for homepage
+- Kubernetes certification
 
 </td>
 </tr>

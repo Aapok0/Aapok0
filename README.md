@@ -61,6 +61,7 @@ I've used linux every now and then, since I started my first university studies 
 ![C](https://img.shields.io/badge/C-%23aeebc8?logo=C&label=%3A&labelColor=%232f3331)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23aeebc8?logo=php&label=%3A&labelColor=%232f3331)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-%23aeb8eb?logo=terraform&label=%3A&labelColor=%232f3331)&nbsp;
+![Qt](https://img.shields.io/badge/Qt-%23aeb8eb?logo=qt&label=%3A&labelColor=%232f3331)&nbsp;
 ![Powershell](https://img.shields.io/badge/Powershell-%23aeb8eb?logo=powershell&label=%3A&labelColor=%232f3331)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-%23ebd4ae?logo=gitlab&label=%3A&labelColor=%232f3331)&nbsp;
 ![Vault](https://img.shields.io/badge/Vault-%23ebd4ae?logo=vault&label=%3A&labelColor=%232f3331)&nbsp;

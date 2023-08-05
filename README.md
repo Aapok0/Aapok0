@@ -49,7 +49,8 @@ I've used linux every now and then, since I started my first university studies 
 ![tmux](https://img.shields.io/badge/tmux-%23aeb8eb?logo=tmux&label=%3A&labelColor=%232f3331)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23aeb8eb?logo=visual%20studio%20code&label=%3A&labelColor=%232f3331)&nbsp;
 ![GH Actions](https://img.shields.io/badge/GH%20Actions-%23aeb8eb?logo=github&label=%3A&labelColor=%232f3331)&nbsp;
-![Ansible](https://img.shields.io/badge/Ansible-%23aeb8eb?logo=ansible&label=%3A&labelColor=%232f3331)
+![Ansible](https://img.shields.io/badge/Ansible-%23aeb8eb?logo=ansible&label=%3A&labelColor=%232f3331)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-%23aeb8eb?logo=terraform&label=%3A&labelColor=%232f3331)
 
 ### 🛎️ Services:
 ![Azure](https://img.shields.io/badge/Azure-%23ebd4ae?logo=microsoft%20azure&label=%3A&labelColor=%232f3331)&nbsp;
@@ -60,7 +61,6 @@ I've used linux every now and then, since I started my first university studies 
 ### 🔨 Dabbled a little or learned years ago:
 ![C](https://img.shields.io/badge/C-%23aeebc8?logo=C&label=%3A&labelColor=%232f3331)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23aeebc8?logo=php&label=%3A&labelColor=%232f3331)&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform-%23aeb8eb?logo=terraform&label=%3A&labelColor=%232f3331)&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-%23aeb8eb?logo=qt&label=%3A&labelColor=%232f3331)&nbsp;
 ![Powershell](https://img.shields.io/badge/Powershell-%23aeb8eb?logo=powershell&label=%3A&labelColor=%232f3331)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-%23ebd4ae?logo=gitlab&label=%3A&labelColor=%232f3331)&nbsp;
@@ -104,9 +104,8 @@ I've used linux every now and then, since I started my first university studies 
 <td width="33%" valign="top">
 
 - Finish 2nd version of my [homepage](https://github.com/Aapok0/homepage-bulma)
-- CI/CD pipeline for homepages:
-  - [homepage](https://github.com/Aapok0/homepage/tree/main/.github/workflows)
-  - [homepage-bulma](https://github.com/Aapok0/homepage-bulma/tree/main/.github/workflows)
+- Deploy and configure an Nginx webserver with [Terraform](https://github.com/Aapok0/azure-tf-architecture) and Ansible
+  - Move homepages to configured webserver
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
 - Certification: AZ-305

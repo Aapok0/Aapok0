@@ -125,6 +125,7 @@ I've used linux every now and then, since I started my first university studies 
 - 3rd version of homepage with react
   - Make it look a terminal
   - Make it work like a command line
+- Make policy assignments to add tags in map variables to resources/resource groups with Terraform
 - Kubernetes certification
 
 </td>

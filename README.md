@@ -103,8 +103,7 @@ I've used linux every now and then, since I started my first university studies 
 <tr>
 <td width="33%" valign="top">
 
-- Finish 2nd version of my [homepage](https://github.com/Aapok0/homepage-bulma)
-- Deploy and configure an Nginx webserver with [Terraform](https://github.com/Aapok0/azure-tf-architecture) and Ansible
+- Deploy and configure an Nginx webserver with [Terraform](https://github.com/Aapok0/azure-tf-architecture) and [Ansible](https://github.com/Aapok0/homepage-webserver-ansible)
   - Move homepages to configured webserver
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)

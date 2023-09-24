@@ -71,11 +71,11 @@ I've used linux every now and then, since I started my first university studies 
 
 ### 🎖️ Certificates:
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/24E4077128CDE29A?sharingId=34159981622366F0">
-<img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ-305">
-<a>&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/48DD3F6B53D95961?sharingId=34159981622366F0">
 <img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ-104">
+<a>&nbsp;
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/24E4077128CDE29A?sharingId=34159981622366F0">
+<img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ-305">
 <a>&nbsp;
 <a href="https://www.credly.com/badges/cabb7c10-0082-44cd-b9af-a937bd556e65/public_url">
 <img width="100" height="100" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/github-actions.png" alt="Github Actions">

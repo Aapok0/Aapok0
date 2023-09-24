@@ -71,6 +71,9 @@ I've used linux every now and then, since I started my first university studies 
 
 ### 🎖️ Certificates:
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/24E4077128CDE29A?sharingId=34159981622366F0">
+<img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ-305">
+<a>&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AapoKokko-3945/48DD3F6B53D95961?sharingId=34159981622366F0">
 <img width="100" height="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ-104">
 <a>&nbsp;
@@ -107,7 +110,6 @@ I've used linux every now and then, since I started my first university studies 
   - Move homepages to configured webserver
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
-- Certification: AZ-305
 
 </td>
 <td width="33%" valign="top">

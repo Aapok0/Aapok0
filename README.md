@@ -110,13 +110,13 @@ I've used linux every now and then, since I started my first university studies 
   - Move homepages to configured webserver
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
+- Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 
 </td>
 <td width="33%" valign="top">
 
 - Udemy: Learn Ethical Hacking From Scratch
 - Udemy: Master the Coding Interview: Data Structures + Algorithms
-- Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 - Choosing preferred terminal emulator and setting it up
 - Choosing preferred window manager and setting it up (i3 maybe?)
 

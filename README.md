@@ -10,7 +10,7 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/instagram-new.png" alt="instagram">
 <a>
 &nbsp;
-<a href="https://aapokokko.fi/">
+<a href="https://www.aapokokko.com/">
 <img width="40" height="40" src="https://raw.githubusercontent.com/Aapok0/Aapok0/main/img/home.png" alt="homepage">
 <a>
 <br>
@@ -66,6 +66,7 @@ I've used linux every now and then, since I started my first university studies 
 ![Qt](https://img.shields.io/badge/Qt-%23aeb8eb?logo=qt&label=%3A&labelColor=%232f3331)&nbsp;
 ![Powershell](https://img.shields.io/badge/Powershell-%23aeb8eb?logo=powershell&label=%3A&labelColor=%232f3331)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-%23ebd4ae?logo=gitlab&label=%3A&labelColor=%232f3331)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-%23ebd4ae?logo=jenkins&label=%3A&labelColor=%232f3331)&nbsp;
 ![Vault](https://img.shields.io/badge/Vault-%23ebd4ae?logo=vault&label=%3A&labelColor=%232f3331)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-%23ebd4ae?logo=jira&label=%3A&labelColor=%232f3331)&nbsp;
 ![Confluence](https://img.shields.io/badge/Confluence-%23ebd4ae?logo=confluence&label=%3A&labelColor=%232f3331)&nbsp;

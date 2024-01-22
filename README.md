@@ -51,12 +51,14 @@ I've used linux every now and then, since I started my first university studies 
 ![GH Actions](https://img.shields.io/badge/GH%20Actions-%23aeb8eb?logo=github&label=%3A&labelColor=%232f3331)&nbsp;
 ![Ansible](https://img.shields.io/badge/Ansible-%23aeb8eb?logo=ansible&label=%3A&labelColor=%232f3331)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-%23aeb8eb?logo=terraform&label=%3A&labelColor=%232f3331)
+![Docker](https://img.shields.io/badge/Docker-%23aeb8eb?logo=docker&label=%3A&labelColor=%232f3331)
 
 ### 🛎️ Services:
 ![Azure](https://img.shields.io/badge/Azure-%23ebd4ae?logo=microsoft%20azure&label=%3A&labelColor=%232f3331)&nbsp;
 ![GHES](https://img.shields.io/badge/GHES-%23ebd4ae?logo=github&label=%3A&labelColor=%232f3331)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%23ebd4ae?logo=bitbucket&label=%3A&labelColor=%232f3331)&nbsp;
 ![Artifactory](https://img.shields.io/badge/Artifactory-%23ebd4ae?logo=jfrog&label=%3A&labelColor=%232f3331)
+![Nginx](https://img.shields.io/badge/Nginx-%23ebd4ae?logo=nginx&label=%3A&labelColor=%232f3331)
 
 ### 🔨 Dabbled a little or learned years ago:
 ![C](https://img.shields.io/badge/C-%23aeebc8?logo=C&label=%3A&labelColor=%232f3331)&nbsp;
@@ -65,6 +67,8 @@ I've used linux every now and then, since I started my first university studies 
 ![Powershell](https://img.shields.io/badge/Powershell-%23aeb8eb?logo=powershell&label=%3A&labelColor=%232f3331)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-%23ebd4ae?logo=gitlab&label=%3A&labelColor=%232f3331)&nbsp;
 ![Vault](https://img.shields.io/badge/Vault-%23ebd4ae?logo=vault&label=%3A&labelColor=%232f3331)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-%23ebd4ae?logo=jira&label=%3A&labelColor=%232f3331)&nbsp;
+![Confluence](https://img.shields.io/badge/Confluence-%23ebd4ae?logo=confluence&label=%3A&labelColor=%232f3331)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%23ebd4ae?logo=mysql&label=%3A&labelColor=%232f3331)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23ebd4ae?logo=mariadb&label=%3A&labelColor=%232f3331)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ebd4ae?logo=postgresql&label=%3A&labelColor=%232f3331)
@@ -106,8 +110,6 @@ I've used linux every now and then, since I started my first university studies 
 <tr>
 <td width="33%" valign="top">
 
-- Deploy and configure an Nginx webserver with [Terraform](https://github.com/Aapok0/azure-tf-architecture) and [Ansible](https://github.com/Aapok0/homepage-webserver-ansible)
-  - Move homepages to configured webserver
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
 - Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain
@@ -115,6 +117,7 @@ I've used linux every now and then, since I started my first university studies 
 </td>
 <td width="33%" valign="top">
 
+- Deploy [homepage](https://github.com/Aapok0/homepage-bulma) as an Azure App Service with [Terraform](https://github.com/Aapok0/azure-tf-architecture) and Github Actions
 - Udemy: Learn Ethical Hacking From Scratch
 - Udemy: Master the Coding Interview: Data Structures + Algorithms
 - Choosing preferred terminal emulator and setting it up
@@ -123,6 +126,9 @@ I've used linux every now and then, since I started my first university studies 
 </td>
 <td width="33%" valign="top">
 
+- Deploy [homepage](https://github.com/Aapok0/homepage-bulma) as a docker container
+  - Into Azure?
+  - With Nginx image?
 - 3rd version of homepage with react
   - Make it look a terminal
   - Make it work like a command line

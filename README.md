@@ -114,6 +114,7 @@ I've used linux every now and then, since I started my first university studies 
 - Open university: [Fullstackopen](https://github.com/Aapok0/fullstackopen)
 - Udemy: [100 days of Python](https://github.com/Aapok0/100-days-of-python-beginner)
 - Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+- Setting up kitty and gitconfig
 
 </td>
 <td width="33%" valign="top">
@@ -121,7 +122,6 @@ I've used linux every now and then, since I started my first university studies 
 - Deploy [homepage](https://github.com/Aapok0/homepage-bulma) as an Azure App Service with [Terraform](https://github.com/Aapok0/azure-tf-architecture) and Github Actions
 - Udemy: Learn Ethical Hacking From Scratch
 - Udemy: Master the Coding Interview: Data Structures + Algorithms
-- Choosing preferred terminal emulator and setting it up
 - Choosing preferred window manager and setting it up (i3 maybe?)
 
 </td>
